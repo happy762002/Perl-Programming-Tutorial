@@ -1,2 +1,6 @@
 # Perl-Programming-Tutorial
-basics to intermediate
+### Basics to Intermediate
+- Covers topics from basic to intermediate levels.
+- Beginner-friendly and easy to follow.
+- Ideal for Bioinformatics students.
+- Includes mini-projects to help reinforce concepts and improve understanding.

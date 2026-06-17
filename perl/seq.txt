@@ -1,0 +1,12 @@
+>Protein1
+MKVLWAALLV
+>Protein2
+AFTGHYIKLP
+>Protein3
+QRSTUVWXYZ
+>Protein4
+DEFGHIJKLN
+>Protein5
+PQRSTUVWX
+>Protein6
+AFTGHYHKP
